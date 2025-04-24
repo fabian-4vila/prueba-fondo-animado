@@ -1,27 +1,35 @@
-# FrontendBlog
+# Blog con Angular 18
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+Este proyecto es un blog desarrollado con Angular 18, enfocado exclusivamente en temas de programación. El objetivo es crear una plataforma dinámica donde los usuarios puedan acceder a contenido técnico actualizado, interactuar con las publicaciones mediante comentarios y puntuaciones, y fomentar una comunidad activa de desarrolladores.
 
-## Development server
+## Tecnologías
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular 18 (LTS):** Framework principal para el frontend.
+    
+- **TypeScript:** Lenguaje utilizado para escribir código en Angular.
+    
+- **CSS/SASS:** Para el diseño y estilo del blog.
+    
+- **HTML5:** Estructura del contenido.
+    
 
-## Code scaffolding
+## Características
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Publicación de notas diarias.
+    
+- Sistema de visualización de las entradas del blog.
+    
+- Diseño responsivo para diferentes dispositivos.
+    
+- Uso de Signals para la gestión de reactividad.
+    
 
-## Build
+## Requisitos del sistema
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Asegúrate de tener instalados los siguientes elementos en tu entorno de desarrollo:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- **Node.js** (versión 18 o superior)
+    
+- **Angular CLI** (versión más reciente compatible con Angular 18)
+    
+- **NPM** o **Yarn** como gestor de paquetes
