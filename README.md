@@ -16,10 +16,7 @@ Inserta aquí una captura de pantalla o un gif del fondo animado (opcional).
 🚀 Cómo usar
 Clona este repositorio o descarga los archivos:
 
-bash
-Copiar
-Editar
-git clone https://github.com/tuusuario/fondo-matrix.git
+git clone https://github.com/fabian-4vila/fondo-matrix.git
 Abre el archivo index.html en tu navegador preferido.
 
 ¡Y listo! Verás la animación tipo Matrix funcionando como fondo.
