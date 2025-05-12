@@ -34,14 +34,16 @@ Instala las dependencias:
 ```bash
 
 npm install
-Inicia la aplicación en modo desarrollo:
 ```
+Inicia la aplicación en modo desarrollo:
+
 ```bash
 ng serve
 ```
 Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Matrix funcionando como fondo.
 
 📁 Estructura del proyecto
+
 ```bash
 
 /fondo-matrix
@@ -56,26 +58,27 @@ Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Mat
 ├── package.json                    # Dependencias del proyecto
 └── README.md
 ```
-✨ Características
-Fondo animado con caracteres estilo Matrix.
+**✨ Características**
+- Fondo animado con caracteres estilo Matrix.
 
-Componente Angular reutilizable.
+- Componente Angular reutilizable.
 
-Animación en tiempo real usando la Canvas API.
+- Animación en tiempo real usando la Canvas API.
 
-Adaptable a distintos tamaños de pantalla.
+- Adaptable a distintos tamaños de pantalla.
 
-Fluidez garantizada con requestAnimationFrame.
+- Fluidez garantizada con requestAnimationFrame.
 
-📚 Aprendizajes
-Integración de Canvas API en un componente Angular.
+**📚 Aprendizajes**
+- Integración de Canvas API en un componente Angular.
 
-Organización de lógica de animación dentro del ciclo de vida de Angular.
+- Organización de lógica de animación dentro del ciclo de vida de Angular.
 
-Manejo de requestAnimationFrame para renderizado eficiente.
+- Manejo de requestAnimationFrame para renderizado eficiente.
 
-Control avanzado del DOM y gráficos con TypeScript.
+- Control avanzado del DOM y gráficos con TypeScript.
 
 📄 Licencia
-Este proyecto está bajo la licencia MIT.
-Siéntete libre de usarlo o modificarlo para tus propios fines.
+**Este proyecto está bajo la licencia MIT.**
+
+*Siéntete libre de usarlo o modificarlo para tus propios fines.*
