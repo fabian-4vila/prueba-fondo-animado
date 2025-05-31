@@ -51,7 +51,8 @@ Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Mat
 ├── src/
 │   ├── app/
 │   │   └── matrix-background/       # Componente principal con el canvas animado
-│   ├── assets/                      # Recursos estáticos (si los hay)
+│   ├── main.ts
+│   ├── styles.css           
 │   └── index.html                  # Entrada principal de la app
 │
 ├── angular.json                    # Configuración de Angular CLI
