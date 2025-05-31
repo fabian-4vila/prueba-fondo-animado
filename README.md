@@ -47,7 +47,7 @@ Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Mat
 ```bash
 
 /fondo-matrix
-│
+├── public/
 ├── src/
 │   ├── app/
 │   │   └── matrix-background/       # Componente principal con el canvas animado
