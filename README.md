@@ -57,10 +57,15 @@ Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Mat
 │   │   └── app.routes.ts
 │   ├── main.ts
 │   ├── styles.css           
-│   └── index.html                  # Entrada principal de la app
-│
-├── angular.json                    # Configuración de Angular CLI
-├── package.json                    # Dependencias del proyecto
+│   └── index.html            
+│.editorconfig
+.gitignore
+package-lock.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+├── angular.json                    
+├── package.json                    
 └── README.md
 ```
 **✨ Características**
