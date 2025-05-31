@@ -58,12 +58,12 @@ Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Mat
 │   ├── main.ts
 │   ├── styles.css           
 │   └── index.html            
-│.editorconfig
-.gitignore
-package-lock.json
-tsconfig.app.json
-tsconfig.json
-tsconfig.spec.json
+├──.editorconfig
+├──.gitignore
+├──package-lock.json
+├──tsconfig.app.json
+├──tsconfig.json
+├──tsconfig.spec.json
 ├── angular.json                    
 ├── package.json                    
 └── README.md
