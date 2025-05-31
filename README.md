@@ -50,7 +50,11 @@ Abre tu navegador y visita http://localhost:4200 para ver la animación tipo Mat
 ├── public/
 ├── src/
 │   ├── app/
-│   │   └── matrix-background/       # Componente principal con el canvas animado
+│   │   ├── app.config.ts
+│   │   ├── app.component.ts
+│   │   ├── app.component.html
+│   │   ├── app.component.css
+│   │   └── app.routes.ts
 │   ├── main.ts
 │   ├── styles.css           
 │   └── index.html                  # Entrada principal de la app
